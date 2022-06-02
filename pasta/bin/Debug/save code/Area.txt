@@ -1,0 +1,50 @@
+List < delivery_file >engz= new List<delivery_file>();
+
+            List<int> name = new List<int>();
+            name.Add(1);
+            name.Add(2);
+            name.Add(3);
+            name.Add(4);
+            name.Add(5);
+            delivery_file file = new delivery_file("A1", "abasia", name);
+            engz.Add(file);
+            name.Clear();
+            name.Add(6);
+            name.Add(7);
+            name.Add(8);
+            name.Add(9);
+            name.Add(10);
+             file = new delivery_file("A2", "shoubra", name);
+
+            engz.Add(file);
+            name.Clear();
+            name.Add(11);
+            name.Add(12);
+            name.Add(13);
+            name.Add(14);
+            name.Add(15);
+            file = new delivery_file("A3", "Nasr", name);
+
+            engz.Add(file);
+            name.Clear();
+            name.Add(16);
+            name.Add(17);
+            name.Add(18);
+            name.Add(19);
+            name.Add(20);
+            file = new delivery_file("A4", "Moqatam", name);
+
+            engz.Add(file);
+            name.Clear();
+            name.Add(21);
+            name.Add(22);
+            name.Add(23);
+            name.Add(24);
+            name.Add(25);
+            file = new delivery_file("A5", "Zawia", name);
+
+            engz.Add(file);
+            XmlSerializer xs = new XmlSerializer(engz.GetType());
+            FileStream fs = new FileStream("Delivery_file.xml", FileMode.OpenOrCreate);
+            xs.Serialize(fs, engz);
+            fs.Close();

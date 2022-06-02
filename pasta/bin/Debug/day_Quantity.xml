@@ -1,0 +1,3318 @@
+<?xml version="1.0"?>
+<ArrayOfClass_Day xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <class_Day>
+    <day>Sunday, April 29, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>188</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, April 19, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>188</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, April 18, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>196</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, April 20, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>193</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>184</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>194</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>196</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>193</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, May 23, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Saturday, April 28, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>199</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>192</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, April 26, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>175</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Saturday, April 21, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>196</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>196</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>199</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>199</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>189</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, June 22, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, May 25, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>193</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>193</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>192</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, April 27, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, May 17, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, June 29, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, July 12, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, August 10, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, June 28, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Saturday, May 19, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>194</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, May 18, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, June 15, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, April 25, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>196</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, May 09, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, March 13, 2019</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, July 11, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Saturday, June 09, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, June 20, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>196</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Saturday, May 12, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>199</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>190</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, July 20, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>199</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>0</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Monday, April 30, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, May 11, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>193</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, June 14, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Saturday, May 26, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Saturday, December 01, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, April 18, 2019</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>199</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>199</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, June 06, 2018</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Friday, May 17, 2019</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Thursday, May 30, 2019</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Sunday, June 23, 2019</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>193</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>100</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, November 27, 2019</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>187</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+  <class_Day>
+    <day>Wednesday, August 07, 2019</day>
+    <items_in_day>
+      <item>
+        <name>French Toast</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>198</quantity>
+      </item>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>197</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>195</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>200</quantity>
+      </item>
+      <item>
+        <name>Fresh Juice</name>
+        <quantity>200</quantity>
+      </item>
+    </items_in_day>
+  </class_Day>
+</ArrayOfClass_Day>

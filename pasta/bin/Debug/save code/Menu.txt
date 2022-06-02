@@ -1,0 +1,188 @@
+//menu_class Menu_obj1 = new menu_class();
+
+            //Menu_obj1.id = 1;
+            //Menu_obj1.name = "French Toast";
+            //Menu_obj1.price = 10;
+            //Menu_obj1.quantity = 200;
+            //menu_list.Add(Menu_obj1);
+
+            //menu_class Menu_obj2 = new menu_class();
+            //Menu_obj2.id = 2;
+            //Menu_obj2.name = "Plain Omelette";
+            //Menu_obj2.price = 10.80;
+            //Menu_obj2.quantity = 200;
+            //menu_list.Add(Menu_obj2);
+
+            //menu_class Menu_obj3 = new menu_class();
+            //Menu_obj3.id = 3;
+            //Menu_obj3.name = "Cheese Omelettee";
+            //Menu_obj3.price = 12.60;
+            //Menu_obj3.quantity = 200;
+            //menu_list.Add(Menu_obj3);
+
+            //menu_class Menu_obj4 = new menu_class();
+            //Menu_obj4.id = 4;
+            //Menu_obj4.name = "Pancake Stack";
+            //Menu_obj4.price = 10;
+            //Menu_obj4.quantity = 200;
+            //menu_list.Add(Menu_obj4);
+
+            //menu_class Menu_obj5 = new menu_class();
+            //Menu_obj5.id = 5;
+            //Menu_obj5.name = "Beef Steack";
+            //Menu_obj5.price = 40;
+            //Menu_obj5.quantity = 200;
+            //menu_list.Add(Menu_obj5);
+
+            //menu_class Menu_obj6 = new menu_class();
+
+            //Menu_obj6.id = 6;
+            //Menu_obj6.name = "T-Bone Steak";
+            //Menu_obj6.price = 35;
+            //Menu_obj6.quantity = 200;
+            //menu_list.Add(Menu_obj6);
+
+            //menu_class Menu_obj7 = new menu_class();
+
+            //Menu_obj7.id = 7;
+            //Menu_obj7.name = "Satay Chicken";
+            //Menu_obj7.price = 40;
+            //Menu_obj7.quantity = 200;
+            //menu_list.Add(Menu_obj7);
+
+            //menu_class Menu_obj8 = new menu_class();
+            //Menu_obj8.id = 8;
+            //Menu_obj8.name = "Honey Chicken";
+            //Menu_obj8.price = 31;
+            //Menu_obj8.quantity = 200;
+            //menu_list.Add(Menu_obj8);
+
+
+
+
+            //menu_class Menu_obj9 = new menu_class();
+            //Menu_obj9.id = 9;
+            //Menu_obj9.name = "Sizzling Chicken";
+            //Menu_obj9.price = 40;
+            //Menu_obj9.quantity = 200;
+            //menu_list.Add(Menu_obj9);
+
+
+
+
+            //menu_class Menu_obj10 = new menu_class();
+            //Menu_obj10.id = 10;
+            //Menu_obj10.name = "Pasta Fettuccine";
+            //Menu_obj10.price = 40;
+            //Menu_obj10.quantity = 200;
+            //menu_list.Add(Menu_obj10);
+
+
+
+
+
+            //menu_class Menu_obj11 = new menu_class();
+            //Menu_obj11.id = 11;
+            //Menu_obj11.name = "Chicken Melt";
+            //Menu_obj11.price = 49;
+            //Menu_obj11.quantity = 200;
+            //menu_list.Add(Menu_obj11);
+
+
+
+
+
+
+            //menu_class Menu_obj12 = new menu_class();
+            //Menu_obj12.id = 12;
+            //Menu_obj12.name = "Super Brid Sandwitch ";
+            //Menu_obj12.price = 29;
+            //Menu_obj12.quantity = 200;
+            //menu_list.Add(Menu_obj12);
+
+
+
+
+            //menu_class Menu_obj13 = new menu_class();
+            //Menu_obj13.id = 13;
+            //Menu_obj13.name = "Burger";
+            //Menu_obj13.price = 25;
+            //Menu_obj13.quantity = 200;
+            //menu_list.Add(Menu_obj13);
+
+
+
+
+
+            //menu_class Menu_obj14 = new menu_class();
+            //Menu_obj14.id = 14;
+            //Menu_obj14.name = "Chicken Burger";
+            //Menu_obj14.price = 30;
+            //Menu_obj14.quantity = 200;
+            //menu_list.Add(Menu_obj14);
+
+
+            //menu_class Menu_obj15 = new menu_class();
+            //Menu_obj15.id = 15;
+            //Menu_obj15.name = "Tea";
+            //Menu_obj15.price = 16;
+            //Menu_obj15.quantity = 200;
+            //menu_list.Add(Menu_obj15);
+
+
+
+            //menu_class Menu_obj16 = new menu_class();
+            //Menu_obj16.id = 16;
+            //Menu_obj16.name = "Coffe";
+            //Menu_obj16.price = 20;
+            //Menu_obj16.quantity = 200;
+            //menu_list.Add(Menu_obj16);
+
+
+
+            //menu_class Menu_obj17 = new menu_class();
+            //Menu_obj17.id = 17;
+            //Menu_obj17.name = "Hot Chocolate";
+            //Menu_obj17.price = 22;
+            //Menu_obj17.quantity = 200;
+            //menu_list.Add(Menu_obj17);
+
+
+
+            //menu_class Menu_obj18 = new menu_class();
+            //Menu_obj18.id = 18;
+            //Menu_obj18.name = "Nescafe";
+            //Menu_obj18.price = 17;
+            //Menu_obj18.quantity = 200;
+            //menu_list.Add(Menu_obj18);
+
+
+            //menu_class Menu_obj19 = new menu_class();
+            //Menu_obj19.id = 19;
+            //Menu_obj19.name = "Cappuccino";
+            //Menu_obj19.price = 22;
+            //Menu_obj19.quantity = 200;
+            //menu_list.Add(Menu_obj19);
+
+
+            //menu_class Menu_obj20 = new menu_class();
+            //Menu_obj20.id = 20;
+            //Menu_obj20.name = "Fresh Juice";
+            //Menu_obj20.price = 25;
+            //Menu_obj20.quantity = 200;
+            //menu_list.Add(Menu_obj20);
+
+
+
+ //XmlSerializer xs = new XmlSerializer(menu_list.GetType());   //FileStream fs = new FileStream("Menu.xml", FileMode.OpenOrCreate);
+            //xs.Serialize(fs, menu_list);
+            //fs.Close();
+
+
+            /////////////////////////////////////////////////////////////////////
+            menu_list.Clear();
+            XmlSerializer xs = new XmlSerializer(menu_list.GetType());
+            FileStream fs = new FileStream("menu.xml", FileMode.Open);
+            menu_list = (List<menu_class>)xs.Deserialize(fs);
+            fs.Close();
+            menu_gridview.DataSource = menu_list;

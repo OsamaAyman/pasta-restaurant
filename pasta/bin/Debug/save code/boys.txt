@@ -1,0 +1,89 @@
+/////////////////////////
+            List<delivery_boy> deliveryboy_list = new List<delivery_boy>();
+            List<string> name = new List<string>();
+            name.Add("khaled");
+            name.Add("osama");
+            name.Add("said");
+            name.Add("saeed");
+            name.Add("sayed");
+            name.Add("mahmoud");
+            name.Add("eslam");
+            name.Add("nabil");
+            name.Add("ayman");
+            name.Add("ahmed");
+            name.Add("ebrahim");
+            name.Add("bakr");
+            name.Add("ali");
+            name.Add("mohamed");
+            name.Add("kareem");
+            name.Add("amr");
+            name.Add("emam");
+            name.Add("hamed");
+            name.Add("bassam");
+            name.Add("rshwan");
+            name.Add("ramadan");
+            name.Add("loda");
+            name.Add("roshdy");
+            name.Add("abbas");
+            name.Add("omar");
+
+            List<string> phone = new List<string>();
+            phone.Add("01141176249");
+            phone.Add("01157464569");
+            phone.Add("01255176249");
+            phone.Add("01141176277");
+            phone.Add("01141171236");
+            phone.Add("01147886249");
+            phone.Add("01141234569");
+            phone.Add("01147845698");
+            phone.Add("01112378949");
+            phone.Add("01112345678");
+            phone.Add("01112346249");
+            phone.Add("01003350398");
+            phone.Add("01132654987");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            phone.Add("01147886249");
+            List<date_time> empty = new List<date_time>();
+            for (int i = 0; i < 5; i++)
+            {
+                delivery_boy boy = new delivery_boy(i + 1, name[i], phone[i], "A1",empty);
+                deliveryboy_list.Add(boy);
+            }
+            for (int i = 5; i < 10; i++)
+            {
+                delivery_boy boy = new delivery_boy(i + 1, name[i], phone[i], "A2",empty);
+                deliveryboy_list.Add(boy);
+            }
+            for (int i = 10; i < 15; i++)
+            {
+                delivery_boy boy = new delivery_boy(i + 1, name[i], phone[i], "A3", empty);
+                deliveryboy_list.Add(boy);
+            }
+            for (int i = 15; i < 20; i++)
+            {
+                delivery_boy boy = new delivery_boy(i + 1, name[i], phone[i], "A4", empty);
+                deliveryboy_list.Add(boy);
+            }
+            for (int i = 20; i < 25; i++)
+            {
+                delivery_boy boy = new delivery_boy(i + 1, name[i], phone[i], "A5", empty);
+                deliveryboy_list.Add(boy);
+            }
+
+            XmlSerializer xs = new XmlSerializer(deliveryboy_list.GetType());
+
+
+            FileStream fs = new FileStream("deliveryboy.xml", FileMode.OpenOrCreate);
+            xs.Serialize(fs, deliveryboy_list);
+            fs.Close();
+            ///////////////////

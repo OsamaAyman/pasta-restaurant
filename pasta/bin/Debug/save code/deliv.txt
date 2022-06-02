@@ -1,0 +1,50 @@
+
+            List<delivery_file> d = new List<delivery_file>();
+        List<int> id_of_boys=new List<int>();
+            id_of_boys.Add(1);
+            id_of_boys.Add(2);
+            id_of_boys.Add(3);
+            id_of_boys.Add(4);
+            id_of_boys.Add(5);
+            delivery_file file = new delivery_file("A1","Abasya",id_of_boys);
+            d.Add(file);
+
+             id_of_boys = new List<int>();
+            id_of_boys.Add(6);
+            id_of_boys.Add(7);
+            id_of_boys.Add(8);
+            id_of_boys.Add(9);
+            id_of_boys.Add(10);
+             file = new delivery_file("A2", "shoubra", id_of_boys);
+            d.Add(file);
+
+             id_of_boys = new List<int>();
+            id_of_boys.Add(11);
+            id_of_boys.Add(12);
+            id_of_boys.Add(13);
+            id_of_boys.Add(14);
+            id_of_boys.Add(15);
+            file = new delivery_file("A3", "Nasr", id_of_boys);
+            d.Add(file);
+
+            id_of_boys = new List<int>();
+            id_of_boys.Add(16);
+            id_of_boys.Add(17);
+            id_of_boys.Add(18);
+            id_of_boys.Add(19);
+            id_of_boys.Add(20);
+           file = new delivery_file("A4", "Moqatam", id_of_boys);
+            d.Add(file);
+
+             id_of_boys = new List<int>();
+            id_of_boys.Add(21);
+            id_of_boys.Add(22);
+            id_of_boys.Add(23);
+            id_of_boys.Add(24);
+            id_of_boys.Add(25);
+           file = new delivery_file("A5", "Zawia", id_of_boys);
+            d.Add(file);
+            FileStream fs = new FileStream("Delivery_file.xml", FileMode.OpenOrCreate);
+            XmlSerializer xs = new XmlSerializer(d.GetType());
+            xs.Serialize(fs, d);
+            fs.Close();

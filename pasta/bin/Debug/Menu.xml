@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<ArrayOfMenu_class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <menu_class>
+    <no_of_order>8</no_of_order>
+    <quantity>200</quantity>
+    <id>1</id>
+    <name>French Toast</name>
+    <price>10</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>8</no_of_order>
+    <quantity>200</quantity>
+    <id>2</id>
+    <name>Plain Omelette</name>
+    <price>10.8</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>9</no_of_order>
+    <quantity>200</quantity>
+    <id>3</id>
+    <name>Cheese Omelettee</name>
+    <price>12.6</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>10</no_of_order>
+    <quantity>200</quantity>
+    <id>4</id>
+    <name>Pancake Stack</name>
+    <price>10</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>9</no_of_order>
+    <quantity>200</quantity>
+    <id>5</id>
+    <name>Beef Steack</name>
+    <price>40</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>11</no_of_order>
+    <quantity>200</quantity>
+    <id>6</id>
+    <name>T-Bone Steak</name>
+    <price>35</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>7</no_of_order>
+    <quantity>200</quantity>
+    <id>7</id>
+    <name>Satay Chicken</name>
+    <price>40</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>22</no_of_order>
+    <quantity>200</quantity>
+    <id>8</id>
+    <name>Honey Chicken</name>
+    <price>31</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>4</no_of_order>
+    <quantity>200</quantity>
+    <id>9</id>
+    <name>Sizzling Chicken</name>
+    <price>40</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>13</no_of_order>
+    <quantity>200</quantity>
+    <id>10</id>
+    <name>Pasta Fettuccine</name>
+    <price>40</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>15</no_of_order>
+    <quantity>200</quantity>
+    <id>11</id>
+    <name>Chicken Melt</name>
+    <price>49</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>7</no_of_order>
+    <quantity>200</quantity>
+    <id>12</id>
+    <name>Super Brid Sandwitch </name>
+    <price>29</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>27</no_of_order>
+    <quantity>200</quantity>
+    <id>13</id>
+    <name>Burger</name>
+    <price>25</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>6</no_of_order>
+    <quantity>200</quantity>
+    <id>14</id>
+    <name>Chicken Burger</name>
+    <price>30</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>14</no_of_order>
+    <quantity>200</quantity>
+    <id>15</id>
+    <name>Tea</name>
+    <price>16</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>43</no_of_order>
+    <quantity>200</quantity>
+    <id>16</id>
+    <name>Coffe</name>
+    <price>20</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>5</no_of_order>
+    <quantity>200</quantity>
+    <id>17</id>
+    <name>Hot Chocolate</name>
+    <price>22</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>6</no_of_order>
+    <quantity>200</quantity>
+    <id>18</id>
+    <name>Nescafe</name>
+    <price>17</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>5</no_of_order>
+    <quantity>200</quantity>
+    <id>19</id>
+    <name>Cappuccino</name>
+    <price>22</price>
+  </menu_class>
+  <menu_class>
+    <no_of_order>2</no_of_order>
+    <quantity>200</quantity>
+    <id>20</id>
+    <name>Fresh Juice</name>
+    <price>25</price>
+  </menu_class>
+</ArrayOfMenu_class>

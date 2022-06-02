@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<ArrayOfDelivery_boy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <delivery_boy>
+    <id>24</id>
+    <name>abbas</name>
+    <phone>01147886249</phone>
+    <area>A5</area>
+    <no_of_orders>0</no_of_orders>
+    <list_date />
+  </delivery_boy>
+  <delivery_boy>
+    <id>25</id>
+    <name>omar</name>
+    <phone>01147886249</phone>
+    <area>A5</area>
+    <no_of_orders>0</no_of_orders>
+    <list_date />
+  </delivery_boy>
+  <delivery_boy>
+    <id>21</id>
+    <name>ramadan</name>
+    <phone>01147886249</phone>
+    <area>A5</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Wednesday, May 23, 2018</date>
+        <time>13:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>16</id>
+    <name>amr</name>
+    <phone>01147886249</phone>
+    <area>A4</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Saturday, April 21, 2018</date>
+        <time>05:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>17</id>
+    <name>emam</name>
+    <phone>01147886249</phone>
+    <area>A4</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, May 18, 2018</date>
+        <time>14:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>18</id>
+    <name>hamed</name>
+    <phone>01147886249</phone>
+    <area>A4</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, May 25, 2018</date>
+        <time>06:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>22</id>
+    <name>loda</name>
+    <phone>01147886249</phone>
+    <area>A5</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, June 22, 2018</date>
+        <time>07:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>19</id>
+    <name>bassam</name>
+    <phone>01147886249</phone>
+    <area>A4</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, May 18, 2018</date>
+        <time>21:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>20</id>
+    <name>rshwan</name>
+    <phone>01147886249</phone>
+    <area>A4</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, June 29, 2018</date>
+        <time>03:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>12</id>
+    <name>bakr</name>
+    <phone>01003350398</phone>
+    <area>A3</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Saturday, April 28, 2018</date>
+        <time>19:00</time>
+      </date_time>
+      <date_time>
+        <date>Thursday, July 12, 2018</date>
+        <time>07:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, May 18, 2018</date>
+        <time>08:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>23</id>
+    <name>roshdy</name>
+    <phone>01147886249</phone>
+    <area>A5</area>
+    <no_of_orders>1</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Wednesday, July 11, 2018</date>
+        <time>05:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>13</id>
+    <name>ali</name>
+    <phone>01132654987</phone>
+    <area>A3</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, May 25, 2018</date>
+        <time>05:00</time>
+      </date_time>
+      <date_time>
+        <date>Saturday, May 19, 2018</date>
+        <time>06:00</time>
+      </date_time>
+      <date_time>
+        <date>Saturday, June 09, 2018</date>
+        <time>04:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>14</id>
+    <name>mohamed</name>
+    <phone>01147886249</phone>
+    <area>A3</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Saturday, April 21, 2018</date>
+        <time>06:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, August 10, 2018</date>
+        <time>06:00</time>
+      </date_time>
+      <date_time>
+        <date>Wednesday, June 20, 2018</date>
+        <time>07:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>15</id>
+    <name>kareem</name>
+    <phone>01147886249</phone>
+    <area>A3</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, May 25, 2018</date>
+        <time>08:00</time>
+      </date_time>
+      <date_time>
+        <date>Saturday, May 19, 2018</date>
+        <time>07:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, July 20, 2018</date>
+        <time>04:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>8</id>
+    <name>nabil</name>
+    <phone>01147845698</phone>
+    <area>A2</area>
+    <no_of_orders>2</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Thursday, June 28, 2018</date>
+        <time>19:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, May 11, 2018</date>
+        <time>04:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>4</id>
+    <name>saeed</name>
+    <phone>01141176277</phone>
+    <area>A1</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, April 20, 2018</date>
+        <time>01:00</time>
+      </date_time>
+      <date_time>
+        <date>Wednesday, April 25, 2018</date>
+        <time>03:00</time>
+      </date_time>
+      <date_time>
+        <date>Thursday, June 14, 2018</date>
+        <time>01:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>5</id>
+    <name>sayed</name>
+    <phone>01141171236</phone>
+    <area>A1</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, April 20, 2018</date>
+        <time>01:00</time>
+      </date_time>
+      <date_time>
+        <date>Wednesday, May 09, 2018</date>
+        <time>11:00</time>
+      </date_time>
+      <date_time>
+        <date>Saturday, May 26, 2018</date>
+        <time>02:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>1</id>
+    <name>khaled</name>
+    <phone>01141176249</phone>
+    <area>A1</area>
+    <no_of_orders>4</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, April 20, 2018</date>
+        <time>01:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, April 20, 2018</date>
+        <time>02:00</time>
+      </date_time>
+      <date_time>
+        <date>Saturday, May 12, 2018</date>
+        <time>02:00</time>
+      </date_time>
+      <date_time>
+        <date>Saturday, December 01, 2018</date>
+        <time>02:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>2</id>
+    <name>osama</name>
+    <phone>01157464569</phone>
+    <area>A1</area>
+    <no_of_orders>4</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, April 20, 2018</date>
+        <time>01:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, April 20, 2018</date>
+        <time>02:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, July 20, 2018</date>
+        <time>22:00</time>
+      </date_time>
+      <date_time>
+        <date>Thursday, April 18, 2019</date>
+        <time>09:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>9</id>
+    <name>ayman</name>
+    <phone>01112378949</phone>
+    <area>A2</area>
+    <no_of_orders>2</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Saturday, May 12, 2018</date>
+        <time>04:00</time>
+      </date_time>
+      <date_time>
+        <date>Wednesday, June 06, 2018</date>
+        <time>09:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>11</id>
+    <name>ebrahim</name>
+    <phone>01112346249</phone>
+    <area>A3</area>
+    <no_of_orders>4</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Saturday, April 21, 2018</date>
+        <time>05:00</time>
+      </date_time>
+      <date_time>
+        <date>Thursday, May 17, 2018</date>
+        <time>05:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, June 15, 2018</date>
+        <time>06:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, May 17, 2019</date>
+        <time>04:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>10</id>
+    <name>ahmed</name>
+    <phone>01112345678</phone>
+    <area>A2</area>
+    <no_of_orders>2</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, June 15, 2018</date>
+        <time>06:00</time>
+      </date_time>
+      <date_time>
+        <date>Thursday, May 30, 2019</date>
+        <time>04:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>6</id>
+    <name>mahmoud</name>
+    <phone>01147886249</phone>
+    <area>A2</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Thursday, April 26, 2018</date>
+        <time>05:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, May 11, 2018</date>
+        <time>20:00</time>
+      </date_time>
+      <date_time>
+        <date>Sunday, June 23, 2019</date>
+        <time>19:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>3</id>
+    <name>said</name>
+    <phone>01255176249</phone>
+    <area>A1</area>
+    <no_of_orders>4</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, April 20, 2018</date>
+        <time>01:00</time>
+      </date_time>
+      <date_time>
+        <date>Friday, April 27, 2018</date>
+        <time>01:00</time>
+      </date_time>
+      <date_time>
+        <date>Monday, April 30, 2018</date>
+        <time>03:00</time>
+      </date_time>
+      <date_time>
+        <date>Wednesday, November 27, 2019</date>
+        <time>01:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+  <delivery_boy>
+    <id>7</id>
+    <name>eslam</name>
+    <phone>01141234569</phone>
+    <area>A2</area>
+    <no_of_orders>3</no_of_orders>
+    <list_date>
+      <date_time>
+        <date>Friday, May 18, 2018</date>
+        <time>07:00</time>
+      </date_time>
+      <date_time>
+        <date>Wednesday, March 13, 2019</date>
+        <time>10:00</time>
+      </date_time>
+      <date_time>
+        <date>Wednesday, August 07, 2019</date>
+        <time>22:00</time>
+      </date_time>
+    </list_date>
+  </delivery_boy>
+</ArrayOfDelivery_boy>

@@ -1,0 +1,822 @@
+<?xml version="1.0"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <phone>01157464569</phone>
+    <adress>qwert</adress>
+    <area>A3</area>
+    <orderDate>Saturday, April 21, 2018</orderDate>
+    <orderTime>05:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>209</money>
+    <orderList>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>3</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>1</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>01157464569</phone>
+    <adress>zxcvb</adress>
+    <area>A4</area>
+    <orderDate>Friday, May 18, 2018</orderDate>
+    <orderTime>14:00</orderTime>
+    <numOfOrders>2</numOfOrders>
+    <money>291</money>
+    <orderList>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>3</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>1226565</phone>
+    <adress>putwsa</adress>
+    <area>A3</area>
+    <orderDate>Saturday, April 28, 2018</orderDate>
+    <orderTime>19:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>150.8</money>
+    <orderList>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>3</quantity>
+      </item>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>1</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>5524</phone>
+    <adress>qwwed</adress>
+    <area>A4</area>
+    <orderDate>Friday, May 25, 2018</orderDate>
+    <orderTime>06:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>276</money>
+    <orderList>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>4</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>44</phone>
+    <adress>fsdff</adress>
+    <area>A3</area>
+    <orderDate>Friday, May 25, 2018</orderDate>
+    <orderTime>05:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>291</money>
+    <orderList>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>8</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>258412</phone>
+    <adress>dsbdg</adress>
+    <area>A2</area>
+    <orderDate>Thursday, April 26, 2018</orderDate>
+    <orderTime>05:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>400</money>
+    <orderList>
+      <item>
+        <name>Tea</name>
+        <quantity>25</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>96</phone>
+    <adress>xc x</adress>
+    <area>A3</area>
+    <orderDate>Saturday, April 21, 2018</orderDate>
+    <orderTime>06:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>110</money>
+    <orderList>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>47868</phone>
+    <adress>fvs</adress>
+    <area>A2</area>
+    <orderDate>Friday, May 18, 2018</orderDate>
+    <orderTime>07:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>287</money>
+    <orderList>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>547</phone>
+    <adress>opk</adress>
+    <area>A5</area>
+    <orderDate>Friday, June 22, 2018</orderDate>
+    <orderTime>07:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>296</money>
+    <orderList>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>56646546</phone>
+    <adress>dfdffd</adress>
+    <area>A3</area>
+    <orderDate>Friday, May 25, 2018</orderDate>
+    <orderTime>08:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>209</money>
+    <orderList>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>54444</phone>
+    <adress>dvsdvvx</adress>
+    <area>A1</area>
+    <orderDate>Friday, April 27, 2018</orderDate>
+    <orderTime>01:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>30</money>
+    <orderList>
+      <item>
+        <name>French Toast</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>5616</phone>
+    <adress>thhfg</adress>
+    <area>A3</area>
+    <orderDate>Thursday, May 17, 2018</orderDate>
+    <orderTime>05:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>365</money>
+    <orderList>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>3</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>114</phone>
+    <adress>iukm</adress>
+    <area>A4</area>
+    <orderDate>Friday, May 18, 2018</orderDate>
+    <orderTime>21:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>70</money>
+    <orderList>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>4848</phone>
+    <adress>ffcsf</adress>
+    <area>A4</area>
+    <orderDate>Friday, June 29, 2018</orderDate>
+    <orderTime>03:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>500</money>
+    <orderList>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>555</phone>
+    <adress>vxsfsf</adress>
+    <area>A3</area>
+    <orderDate>Thursday, July 12, 2018</orderDate>
+    <orderTime>07:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>345</money>
+    <orderList>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Hot Chocolate</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>146</phone>
+    <adress>bffg</adress>
+    <area>A3</area>
+    <orderDate>Saturday, May 19, 2018</orderDate>
+    <orderTime>06:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>160</money>
+    <orderList>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>4</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>123548</phone>
+    <adress>azxsw</adress>
+    <area>A3</area>
+    <orderDate>Friday, August 10, 2018</orderDate>
+    <orderTime>06:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>60</money>
+    <orderList>
+      <item>
+        <name>Coffe</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>56465</phone>
+    <adress>ujiui</adress>
+    <area>A2</area>
+    <orderDate>Thursday, June 28, 2018</orderDate>
+    <orderTime>19:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>100</money>
+    <orderList>
+      <item>
+        <name>Coffe</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>54</phone>
+    <adress>xc</adress>
+    <area>A2</area>
+    <orderDate>Saturday, May 12, 2018</orderDate>
+    <orderTime>04:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>250</money>
+    <orderList>
+      <item>
+        <name>Burger</name>
+        <quantity>10</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>1235</phone>
+    <adress>aswef</adress>
+    <area>A3</area>
+    <orderDate>Saturday, May 19, 2018</orderDate>
+    <orderTime>07:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>138</money>
+    <orderList>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>254</phone>
+    <adress>dhhdg</adress>
+    <area>A3</area>
+    <orderDate>Friday, June 15, 2018</orderDate>
+    <orderTime>06:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>450</money>
+    <orderList>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>525885</phone>
+    <adress>jijuu</adress>
+    <area>A3</area>
+    <orderDate>Friday, May 18, 2018</orderDate>
+    <orderTime>08:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>200</money>
+    <orderList>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>455565</phone>
+    <adress>ghhgh</adress>
+    <area>A2</area>
+    <orderDate>Friday, June 15, 2018</orderDate>
+    <orderTime>06:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>80</money>
+    <orderList>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>12225</phone>
+    <adress>cbbbb</adress>
+    <area>A2</area>
+    <orderDate>Friday, May 11, 2018</orderDate>
+    <orderTime>20:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>466</money>
+    <orderList>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>7</quantity>
+      </item>
+      <item>
+        <name>Cappuccino</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>101010</phone>
+    <adress>qwas</adress>
+    <area>A1</area>
+    <orderDate>Wednesday, April 25, 2018</orderDate>
+    <orderTime>03:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>25.2</money>
+    <orderList>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>101010</phone>
+    <adress>vngff</adress>
+    <area>A1</area>
+    <orderDate>Wednesday, May 09, 2018</orderDate>
+    <orderTime>11:00</orderTime>
+    <numOfOrders>2</numOfOrders>
+    <money>80</money>
+    <orderList>
+      <item>
+        <name>Sizzling Chicken</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>124569</phone>
+    <adress>fgtr</adress>
+    <area>A2</area>
+    <orderDate>Wednesday, March 13, 2019</orderDate>
+    <orderTime>10:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>80</money>
+    <orderList>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>12478</phone>
+    <adress>dsdws</adress>
+    <area>A5</area>
+    <orderDate>Wednesday, July 11, 2018</orderDate>
+    <orderTime>05:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>80</money>
+    <orderList>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>54254</phone>
+    <adress>ghtkj</adress>
+    <area>A3</area>
+    <orderDate>Saturday, June 09, 2018</orderDate>
+    <orderTime>04:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>102</money>
+    <orderList>
+      <item>
+        <name>T-Bone Steak</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>559</phone>
+    <adress>cvcvc</adress>
+    <area>A3</area>
+    <orderDate>Wednesday, June 20, 2018</orderDate>
+    <orderTime>07:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>172</money>
+    <orderList>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>4</quantity>
+      </item>
+      <item>
+        <name>Tea</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>852</phone>
+    <adress>vcv</adress>
+    <area>A1</area>
+    <orderDate>Saturday, May 12, 2018</orderDate>
+    <orderTime>02:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>40</money>
+    <orderList>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>1</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>01123</phone>
+    <adress>ccccc</adress>
+    <area>A1</area>
+    <orderDate>Friday, July 20, 2018</orderDate>
+    <orderTime>22:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>160</money>
+    <orderList>
+      <item>
+        <name>Satay Chicken</name>
+        <quantity>1</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>101010</phone>
+    <adress>cfti</adress>
+    <area>A3</area>
+    <orderDate>Friday, July 20, 2018</orderDate>
+    <orderTime>04:00</orderTime>
+    <numOfOrders>3</numOfOrders>
+    <money>7880</money>
+    <orderList>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>197</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>012522</phone>
+    <adress>xfghgf</adress>
+    <area>A1</area>
+    <orderDate>Monday, April 30, 2018</orderDate>
+    <orderTime>03:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>37.8</money>
+    <orderList>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>2552</phone>
+    <adress>hhgnghg</adress>
+    <area>A2</area>
+    <orderDate>Friday, May 11, 2018</orderDate>
+    <orderTime>04:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>167</money>
+    <orderList>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>0111145</phone>
+    <adress>dddddd</adress>
+    <area>A1</area>
+    <orderDate>Thursday, June 14, 2018</orderDate>
+    <orderTime>01:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>167</money>
+    <orderList>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>03265</phone>
+    <adress>ggggg</adress>
+    <area>A1</area>
+    <orderDate>Saturday, May 26, 2018</orderDate>
+    <orderTime>02:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>63</money>
+    <orderList>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>0125487</phone>
+    <adress>vkfeie</adress>
+    <area>A1</area>
+    <orderDate>Saturday, December 01, 2018</orderDate>
+    <orderTime>02:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>172.2</money>
+    <orderList>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Chicken Melt</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>65974</phone>
+    <adress>gofdf</adress>
+    <area>A1</area>
+    <orderDate>Thursday, April 18, 2019</orderDate>
+    <orderTime>09:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>50</money>
+    <orderList>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>1</quantity>
+      </item>
+      <item>
+        <name>Coffe</name>
+        <quantity>1</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>4557</phone>
+    <adress>aswq</adress>
+    <area>A2</area>
+    <orderDate>Wednesday, June 06, 2018</orderDate>
+    <orderTime>09:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>30</money>
+    <orderList>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>3</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>0111111</phone>
+    <adress>hhhhh</adress>
+    <area>A3</area>
+    <orderDate>Friday, May 17, 2019</orderDate>
+    <orderTime>04:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>100</money>
+    <orderList>
+      <item>
+        <name>Pancake Stack</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>2</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>22222</phone>
+    <adress>hjbggg</adress>
+    <area>A2</area>
+    <orderDate>Thursday, May 30, 2019</orderDate>
+    <orderTime>04:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>170.2</money>
+    <orderList>
+      <item>
+        <name>Cheese Omelettee</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Super Brid Sandwitch </name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>000000</phone>
+    <adress>grgtrrttr</adress>
+    <area>A2</area>
+    <orderDate>Sunday, June 23, 2019</orderDate>
+    <orderTime>19:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>3295</money>
+    <orderList>
+      <item>
+        <name>Beef Steack</name>
+        <quantity>3</quantity>
+      </item>
+      <item>
+        <name>Burger</name>
+        <quantity>7</quantity>
+      </item>
+      <item>
+        <name>Chicken Burger</name>
+        <quantity>100</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>2255</phone>
+    <adress>jjuu</adress>
+    <area>A1</area>
+    <orderDate>Wednesday, November 27, 2019</orderDate>
+    <orderTime>01:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>453</money>
+    <orderList>
+      <item>
+        <name>French Toast</name>
+        <quantity>5</quantity>
+      </item>
+      <item>
+        <name>Honey Chicken</name>
+        <quantity>13</quantity>
+      </item>
+    </orderList>
+  </Customer>
+  <Customer>
+    <phone>00005488</phone>
+    <adress>ffffff</adress>
+    <area>A2</area>
+    <orderDate>Wednesday, August 07, 2019</orderDate>
+    <orderTime>22:00</orderTime>
+    <numOfOrders>1</numOfOrders>
+    <money>226.6</money>
+    <orderList>
+      <item>
+        <name>Plain Omelette</name>
+        <quantity>2</quantity>
+      </item>
+      <item>
+        <name>Pasta Fettuccine</name>
+        <quantity>3</quantity>
+      </item>
+      <item>
+        <name>Nescafe</name>
+        <quantity>5</quantity>
+      </item>
+    </orderList>
+  </Customer>
+</ArrayOfCustomer>

@@ -1,0 +1,142 @@
+E:\code\pasta\pasta\bin\Debug\pasta.exe.config
+E:\code\pasta\pasta\bin\Debug\pasta.exe
+E:\code\pasta\pasta\bin\Debug\pasta.pdb
+E:\code\pasta\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+E:\code\pasta\pasta\obj\Debug\pasta.Form1.resources
+E:\code\pasta\pasta\obj\Debug\pasta.Properties.Resources.resources
+E:\code\pasta\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+E:\code\pasta\pasta\obj\Debug\pasta.csproj.CoreCompileInputs.cache
+E:\code\pasta\pasta\obj\Debug\pasta.exe
+E:\code\pasta\pasta\obj\Debug\pasta.pdb
+E:\code\pasta\pasta\obj\Debug\pasta.Form2.resources
+E:\code\pasta\pasta\bin\Debug\Bunifu_UI_v1.4.dll
+E:\code\pasta\pasta\obj\Debug\pasta.chart_control.resources
+E:\code\pasta\pasta\obj\Debug\pasta.menu_control.resources
+E:\code\pasta\pasta\obj\Debug\pasta.order_control.resources
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\bin\Debug\pasta.exe.config
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\bin\Debug\pasta.exe
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\bin\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.chart_control.resources
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.Form1.resources
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.Form2.resources
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.menu_control.resources
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.order_control.resources
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.Properties.Resources.resources
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.exe
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\Tasks1\pasta\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+E:\file pro\Tasks1\pasta\pasta\bin\Debug\pasta.exe.config
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.exe
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.pdb
+E:\file pro\Tasks1\pasta\pasta\bin\Debug\pasta.exe
+E:\file pro\Tasks1\pasta\pasta\bin\Debug\pasta.pdb
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.chart_control.resources
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.Form1.resources
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.Form2.resources
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.menu_control.resources
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.order_control.resources
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.Properties.Resources.resources
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+E:\file pro\Tasks1\pasta\pasta\obj\Debug\pasta.best_boy.resources
+E:\file pro\Tasks2\pasta\pasta\bin\Debug\pasta.exe.config
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.exe
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.pdb
+E:\file pro\Tasks2\pasta\pasta\bin\Debug\pasta.exe
+E:\file pro\Tasks2\pasta\pasta\bin\Debug\pasta.pdb
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.chart_control.resources
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.Form1.resources
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.Form2.resources
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.menu_control.resources
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.order_control.resources
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.Properties.Resources.resources
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+E:\file pro\Tasks2\pasta\pasta\obj\Debug\pasta.bestBoy_control.resources
+C:\Users\OsoS\Desktop\pasta\pasta\bin\Debug\pasta.exe.config
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.exe
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\pasta\pasta\bin\Debug\pasta.exe
+C:\Users\OsoS\Desktop\pasta\pasta\bin\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.bestBoy_control.resources
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.chart_control.resources
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.Form1.resources
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.Form2.resources
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.menu_control.resources
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.order_control.resources
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.Properties.Resources.resources
+C:\Users\OsoS\Desktop\pasta\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+C:\Users\OsoS\Desktop\pasta - final\pasta\bin\Debug\pasta.exe.config
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.exe
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\pasta - final\pasta\bin\Debug\pasta.exe
+C:\Users\OsoS\Desktop\pasta - final\pasta\bin\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.bestBoy_control.resources
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.chart_control.resources
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.Form1.resources
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.Form2.resources
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.menu_control.resources
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.order_control.resources
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.Properties.Resources.resources
+C:\Users\OsoS\Desktop\pasta - final\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\bin\Debug\pasta.exe.config
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.exe
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\bin\Debug\pasta.exe
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\bin\Debug\pasta.pdb
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.bestBoy_control.resources
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.chart_control.resources
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.Form1.resources
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.Form2.resources
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.menu_control.resources
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.order_control.resources
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.Properties.Resources.resources
+C:\Users\OsoS\Desktop\project\pasta - final\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+E:\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.exe.config
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.exe
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.pdb
+E:\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.exe
+E:\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.pdb
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.bestBoy_control.resources
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.chart_control.resources
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Form1.resources
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Form2.resources
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.menu_control.resources
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.order_control.resources
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Properties.Resources.resources
+E:\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+D:\Study\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.exe.config
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.exe
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.pdb
+D:\Study\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.exe
+D:\Study\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.pdb
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csprojResolveAssemblyReference.cache
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.bestBoy_control.resources
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.chart_control.resources
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Form1.resources
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Form2.resources
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.menu_control.resources
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.order_control.resources
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Properties.Resources.resources
+D:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csproj.GenerateResource.Cache
+E:\Study\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.exe.config
+E:\Study\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.exe
+E:\Study\my projects\pasta\pasta - final\pasta\bin\Debug\pasta.pdb
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.bestBoy_control.resources
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.chart_control.resources
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Form1.resources
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Form2.resources
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.menu_control.resources
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.order_control.resources
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.Properties.Resources.resources
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csproj.GenerateResource.cache
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.exe
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.pdb
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csproj.AssemblyReference.cache
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csproj.CoreCompileInputs.cache
+E:\Study\my projects\pasta\pasta - final\pasta\obj\Debug\pasta.csproj.CopyComplete
